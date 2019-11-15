@@ -11,6 +11,11 @@
 <img src="src/img/01.jpeg" width="300">
 
 # Screen 02:
-- Screen thats adds, removes one or remove all repositories.
-- Tela que adiciona, remove um ou remove todos os repositórios.
+- Screen showing user repositories.
+- Tela mostrando repositorios dos usuários.
 <img src="src/img/02.jpeg" width="300">
+
+# Screen 03:
+- Screen showing a clicked repository.
+- Tela mostrando um repositório clicado.
+<img src="src/img/03.jpeg" width="300">
