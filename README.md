@@ -6,7 +6,7 @@
 - Este é um aplicativo que consome API do Github que adiciona e remove repositórios e mostra repositórios salvos de cada usuário.
 
 # Screen 01:
-- Screen thats adds, removes one or all repositories.
+- Screen that adds and removes one or all repositories.
 - Tela que adiciona, remove um ou remove todos os repositórios.
 <img src="src/img/01.jpeg" width="300">
 
